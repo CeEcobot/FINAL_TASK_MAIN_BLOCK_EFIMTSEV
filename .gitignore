@@ -421,3 +421,8 @@ FodyWeavers.xsd
 *.sln.iml
 
 .gitignore
+
+Task_1.csproj
+obj
+
+
